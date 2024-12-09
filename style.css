@@ -85,7 +85,7 @@ img{
                 gap: 2rem;/*change*/
         }
 }
-@media(min-width:481px) and (max-width:786px){
+@media(min-width:481px) and (max-width:686px){
         .choices {
                 gap: 0.3rem;/*change */
                 margin-top: 3rem;/*change */
